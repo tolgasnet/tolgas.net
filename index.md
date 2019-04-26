@@ -1,5 +1,6 @@
 # Random notes on software development
 
+
 ###### 26 Apr 2019
 ## Multitasking for developers
 

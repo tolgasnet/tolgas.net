@@ -1,5 +1,6 @@
-# Random notes on software development  <br />
-  
+# Random notes on software development  
+<br />
+
 ###### 26 Apr 2019
 ## Multitasking
 

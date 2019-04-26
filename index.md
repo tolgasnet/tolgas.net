@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Posts
 
-[Some Link]({% post_url 2019-04-26-test %})
+[post]: {% _posts/2019-04-26-test.md %}
 
 ### Markdown
 
